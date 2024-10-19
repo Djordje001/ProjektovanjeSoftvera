@@ -1,0 +1,15 @@
+# NetBeans specific files to ignore
+nbproject/private/
+build/
+dist/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Java specific files
+*.class
+*.log
+
+# Maven specific files (ako koristiš Maven)
+target/
